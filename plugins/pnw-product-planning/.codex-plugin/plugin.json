@@ -1,0 +1,6 @@
+{
+  "name": "pnw-product-planning",
+  "version": "0.2.0",
+  "description": "粉与白卖点与价格两个独立工作流，含路径配置及人工审核案例参考。",
+  "skills": "./skills/"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "粉与白产品价格"
+  short_description: "基于成本与渠道条件测算保本边界、常规售价和活动底价建议"
+  default_prompt: "使用 $pnw-pricing，核对产品成本和渠道条件并形成可审阅的价格方案。"

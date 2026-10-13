@@ -1,0 +1,3123 @@
+{
+  "meta": {
+    "version": "v0.2",
+    "status": "58例用户审核已接收；部分有效备注与错误原因待澄清",
+    "platform": "抖音",
+    "entry": "抖音电商罗盘 > 市场 > 商品榜单 > 总榜",
+    "category": "服饰内衣 / 服装 / 内衣裤袜 / 袜子 / 连体袜",
+    "rankingWindow": "2026-09-28—2026-10-04（近7天）",
+    "sampling": "榜单前7页；商品ID去重，进一步标题去重，排除长筒袜；未按卖点好坏筛选。不是随机代表性抽样。",
+    "rawUniqueProductIds": 62,
+    "reviewCases": 58,
+    "localMainImages": 10,
+    "skuReadCases": 2,
+    "counts": {
+      "保暖与材质": 34,
+      "舒适与穿着顾虑": 14,
+      "穿搭与场景": 54,
+      "背书与信任主张": 18,
+      "促销与购买保障": 22,
+      "显瘦与腿型": 33,
+      "结构与款式选择": 21,
+      "裸感与肤色": 31
+    },
+    "limitations": [
+      "抖音商城官方网页只提供App下载，本次未完成商城消费者端搜索。实际替代入口是官方电商罗盘。",
+      "罗盘竞品详情提示每日上限10个。本批10次详情访问，只有2个案例抓到可见TOP5 SKU；其余未读到SKU，不代表商品没有SKU文案。",
+      "58个链接为罗盘具体商品记录，需要登录且详情受配额限制；没有伪造商城消费者购买链接。",
+      "保存10张原始主图并人工读取原文；其余48个以标题原文为已提取证据，保留榜单实际图片URL供查看，尚未逐字提取主图或完整详情。",
+      "类别是表达分类；58例已收到用户表达审核，但真实功效及销售效果未独立验证。排名、支付额、点击转化区间不证明该句卖点带来成交。",
+      "本批集中秋冬基础打底/光腿类，与蝴蝶结珍珠装饰型连裤袜不同，仅作为表达训练，不能直接搬用参数或承诺。"
+    ],
+    "reviewCounts": {
+      "有效": 51,
+      "部分有效": 4,
+      "错误": 3
+    },
+    "reviewedBy": "Jeff",
+    "reviewDate": "2026-10-06",
+    "distributionSnapshotDate": "2026-10-06",
+    "snapshotKind": "仅选取案例表达与审核字段的交付快照，不是实时源",
+    "originalCasesSha256": "69acabd761fdc2b2c9fec8923afd5e67879e358591365855cb40c20a0a91a2d9",
+    "originalFeedbackSha256": "d3063b1b305f5282afdb6586318c52add217641eb3b0f9a870754a111b75f97b",
+    "imagesBundled": false,
+    "notice": "仅含原已提取文字与审核，未附主图，不扩展原scope；在线图片需实际读取，当前源优先。"
+  },
+  "samples": [
+    {
+      "caseNo": "C01",
+      "id": "3843414526724800833",
+      "title": "【杨幂同款】小野和子原生羊毛蚕丝连裤袜新款外穿打底裤高智感27CS",
+      "shop": "小野和子官方旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3843414526724800833&product_shop_id=79447224&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [
+        "深灰色+黑色/【北方昼夜双温2件装】中暖+高暖/连脚长款(164-175cm，95-135斤)",
+        "深灰色+黑色/【北方昼夜双温2件装】中暖+高暖/连脚短款(153-163cm，90-125斤)",
+        "深灰色+黑色/【南方昼夜双温2件装】初暖+中暖/连脚短款(153-163cm，90-125斤)",
+        "【幂幂同款】深灰色+中灰色/【北方昼夜双温2件装】中暖+高暖/连脚短款(153-163cm，90-125斤)",
+        "【幂幂同款】深灰色+中灰色/【南方昼夜双温2件装】初暖+中暖/连脚短款(153-163cm，90-125斤)"
+      ],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/png_m_ec7f5b27700fef7ba696a0b3b783e8a9_sx_1824876_www1080-1080",
+      "mainQuotes": [
+        "羊毛蚕丝 柔润保暖",
+        "天然桑蚕丝",
+        "远红外发热",
+        "不易卡档掉档",
+        "7天无理由退换",
+        "国际认证 婴幼儿级"
+      ],
+      "scope": "标题原文 + 主图原文 + 当前可见TOP5 SKU原文",
+      "categories": [
+        "保暖与材质",
+        "舒适与穿着顾虑",
+        "穿搭与场景",
+        "背书与信任主张",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "保暖与材质": [
+          "羊毛蚕丝",
+          "天然桑蚕丝",
+          "保暖",
+          "远红外发热"
+        ],
+        "舒适与穿着顾虑": [
+          "不易卡档掉档"
+        ],
+        "穿搭与场景": [
+          "外穿"
+        ],
+        "背书与信任主张": [
+          "杨幂同款",
+          "国际认证"
+        ],
+        "促销与购买保障": [
+          "7天无理由"
+        ]
+      },
+      "consumerQuestions": [
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "会不会勒、掉档、顶脚或勾丝，穿脱是否方便？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "为什么相信这家或这项承诺？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C02",
+      "id": "3781040226290499799",
+      "title": "【26年新款】完美记忆秋冬百搭竖条纹显瘦微压塑形打底袜JR",
+      "shop": "完美记忆服饰配件旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3781040226290499799&product_shop_id=242658332&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_f6540989e0540ec7b90891fe3caafb46_sx_920875_www1440-1440",
+      "mainQuotes": [
+        "显瘦轻塑 穿出大长腿",
+        "到手价49.9起",
+        "活动期间：全场七天无理由"
+      ],
+      "scope": "标题原文 + 主图原文",
+      "categories": [
+        "显瘦与腿型",
+        "穿搭与场景",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "穿出大长腿",
+          "显瘦",
+          "塑形",
+          "轻塑",
+          "微压"
+        ],
+        "穿搭与场景": [
+          "百搭",
+          "秋冬"
+        ],
+        "促销与购买保障": [
+          "七天无理由",
+          "到手价49.9起"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "部分有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "显瘦轻塑 穿出大长腿",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "待确认备注为保留句还是剔除句"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C03",
+      "id": "3781793271454500181",
+      "title": "【大码高腰打底裤】秋冬外穿内搭高弹连裤袜高腰款秋裤打底袜弹力",
+      "shop": "热荔塑身美体旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3781793271454500181&product_shop_id=242365436&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_1d4650cf3fd3015cdb70876757a55102_sx_223927_www1080-1080",
+      "mainQuotes": [
+        "高弹无束",
+        "贴身保暖 内搭外穿一件搞定",
+        "秋冬也要穿出好身形",
+        "分区贴合",
+        "贴合臀型",
+        "高腰包裹",
+        "保暖舒适",
+        "-5°C-10°C"
+      ],
+      "scope": "标题原文 + 主图原文",
+      "categories": [
+        "显瘦与腿型",
+        "保暖与材质",
+        "舒适与穿着顾虑",
+        "结构与款式选择",
+        "穿搭与场景"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "高腰"
+        ],
+        "保暖与材质": [
+          "保暖"
+        ],
+        "舒适与穿着顾虑": [
+          "高弹无束"
+        ],
+        "结构与款式选择": [
+          "大码"
+        ],
+        "穿搭与场景": [
+          "内搭外穿一件搞定",
+          "秋冬"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "会不会勒、掉档、顶脚或勾丝，穿脱是否方便？",
+        "哪种长度、结构、尺码或颜色适合我？",
+        "能配哪些衣服，适合什么季节和场景？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C04",
+      "id": "3723733774639432117",
+      "title": "【徐艺洋同款】完美记忆竖条纹加绒打底裤百搭塑型微压连裤袜Z",
+      "shop": "完美记忆天振服饰专卖店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3723733774639432117&product_shop_id=53652059&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_83c45f33e1237ff8b8257b7a961c811a_sx_239764_www1080-1080",
+      "mainQuotes": [
+        "微压显瘦 秒变漫画腿",
+        "到手价49.9起",
+        "活动期间：全场七天无理由"
+      ],
+      "scope": "标题原文 + 主图原文",
+      "categories": [
+        "显瘦与腿型",
+        "保暖与材质",
+        "穿搭与场景",
+        "背书与信任主张",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "秒变漫画腿",
+          "显瘦",
+          "塑型",
+          "微压"
+        ],
+        "保暖与材质": [
+          "加绒"
+        ],
+        "穿搭与场景": [
+          "百搭"
+        ],
+        "背书与信任主张": [
+          "徐艺洋同款"
+        ],
+        "促销与购买保障": [
+          "七天无理由",
+          "到手价49.9起"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "为什么相信这家或这项承诺？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "部分有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "微压显瘦 秒变漫画腿",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "待确认备注为保留句还是剔除句"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C05",
+      "id": "3840829830304235679",
+      "title": "【露思推荐】茉寻新8代纽扣光腿裸感神器秋冬打底袜燕麦格雷-2",
+      "shop": "茉寻运动旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3840829830304235679&product_shop_id=299804540&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/png_m_c3ad1db0c4e6735325bef8bf78a72688_sx_1700700_www1080-1080",
+      "mainQuotes": [
+        "裸感自然 无褶皱",
+        "原生肤色光腿神器",
+        "全新升级8.0PRO",
+        "纽扣款可拆卸光腿神器",
+        "裸感美肤",
+        "逼真不假白"
+      ],
+      "scope": "标题原文 + 主图原文",
+      "categories": [
+        "裸感与肤色",
+        "结构与款式选择",
+        "穿搭与场景",
+        "背书与信任主张"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "裸感",
+          "美肤",
+          "不假白",
+          "无褶皱"
+        ],
+        "结构与款式选择": [
+          "可拆卸",
+          "纽扣款"
+        ],
+        "穿搭与场景": [
+          "秋冬",
+          "燕麦格雷"
+        ],
+        "背书与信任主张": [
+          "露思推荐"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "哪种长度、结构、尺码或颜色适合我？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "为什么相信这家或这项承诺？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C06",
+      "id": "3842423215985131986",
+      "title": "2026秋季裸感遮瑕美肤袜收腹连裤袜光腿神器",
+      "shop": "蜀源贸易商行",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3842423215985131986&product_shop_id=113459455&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/png_m_dcfc522ea079578f9f2ca61417067993_sx_806378_www908-908",
+      "mainQuotes": [
+        "细腻柔滑 无感穿着",
+        "脚底免脱洗脚",
+        "秋季上新"
+      ],
+      "scope": "标题原文 + 主图原文",
+      "categories": [
+        "裸感与肤色",
+        "显瘦与腿型",
+        "舒适与穿着顾虑"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "裸感",
+          "遮瑕",
+          "美肤"
+        ],
+        "显瘦与腿型": [
+          "收腹"
+        ],
+        "舒适与穿着顾虑": [
+          "无感穿着",
+          "细腻柔滑"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "穿上后的腿型与腰臀效果如何？",
+        "会不会勒、掉档、顶脚或勾丝，穿脱是否方便？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "部分有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "细腻柔滑 无感穿着\n脚底免脱洗脚",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "待确认备注为保留句还是剔除句"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C07",
+      "id": "3843346187218452728",
+      "title": "【杨幂推荐】小野和子水光黑丝单层保暖秋冬厚款黑透肤打底袜28DH",
+      "shop": "小野和子户外旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3843346187218452728&product_shop_id=239271938&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_ed45b462f4366a11caa9e7adcec4720d_sx_412303_www800-800",
+      "mainQuotes": [
+        "自然清透 水光黑透肤",
+        "一体好穿脱",
+        "柔润玻尿酸",
+        "不易掉档",
+        "七天无理由退换"
+      ],
+      "scope": "标题原文 + 主图原文",
+      "categories": [
+        "裸感与肤色",
+        "保暖与材质",
+        "舒适与穿着顾虑",
+        "结构与款式选择",
+        "穿搭与场景",
+        "背书与信任主张",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "水光黑透肤"
+        ],
+        "保暖与材质": [
+          "保暖",
+          "柔润玻尿酸"
+        ],
+        "舒适与穿着顾虑": [
+          "不易掉档",
+          "一体好穿脱"
+        ],
+        "结构与款式选择": [
+          "单层"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ],
+        "背书与信任主张": [
+          "杨幂推荐"
+        ],
+        "促销与购买保障": [
+          "七天无理由"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "会不会勒、掉档、顶脚或勾丝，穿脱是否方便？",
+        "哪种长度、结构、尺码或颜色适合我？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "为什么相信这家或这项承诺？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "部分有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "自然清透 水光黑透肤\n一体好穿脱\n柔润玻尿酸\n不易掉档",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "待确认备注为保留句还是剔除句"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C08",
+      "id": "3842284269363920948",
+      "title": "【露思同款】茉寻原生柔焦裸感黑透肤单层光腿神器新升级秋冬连裤袜",
+      "shop": "茉寻官方旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3842284269363920948&product_shop_id=266746640&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [
+        "【南方姐妹必备2条装】薄绒+厚绒(适合0-20°℃)/M（常规款）(155-165cm，80-130斤)/连脚款",
+        "【早秋必备2条装】无绒+薄绒（适合10-25℃）/M（常规款）(155-165cm，80-130斤)/连脚款",
+        "【南方姐妹必备2条装】薄绒+厚绒(适合0-20°℃)/L（加长款）(165-175cm，90-150斤)/连脚款",
+        "【南方姐妹必备2条装】薄绒+厚绒(适合0-20°℃)/M（常规款）(155-165cm，80-130斤)/踩脚款",
+        "【北方姐妹必备2条装】厚绒+超厚绒(适合-10-15℃)/M（常规款）(155-165cm，80-130斤)/连脚款"
+      ],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_4204f3b6cff3a45e690f7c186e7c3a8c_sx_178455_www1080-1080",
+      "mainQuotes": [
+        "原生柔焦 黑透肤",
+        "单层光腿神器",
+        "一体织造",
+        "拒绝勾丝、分层",
+        "拍1发2",
+        "拍2发6"
+      ],
+      "scope": "标题原文 + 主图原文 + 当前可见TOP5 SKU原文",
+      "categories": [
+        "裸感与肤色",
+        "结构与款式选择",
+        "穿搭与场景",
+        "背书与信任主张",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "原生柔焦",
+          "黑透肤",
+          "裸感"
+        ],
+        "结构与款式选择": [
+          "一体织造",
+          "单层"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ],
+        "背书与信任主张": [
+          "露思同款"
+        ],
+        "促销与购买保障": [
+          "拍1发2",
+          "拍2发6"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "哪种长度、结构、尺码或颜色适合我？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "为什么相信这家或这项承诺？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C09",
+      "id": "3835577199084306885",
+      "title": "【黄姐姐私人定制款】秋冬黑丝光腿神器女黑透肤打底裤连裤袜",
+      "shop": "黄姐姐裤袜精选店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3835577199084306885&product_shop_id=299871316&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_ff914247a1bd787bf9506428b644b80f_sx_277631_www800-800",
+      "mainQuotes": [
+        "裸感舒适 轻盈美腿",
+        "防勾丝",
+        "不掉档",
+        "不假白",
+        "两种颜色 随心选择",
+        "自然裸感",
+        "细腻高密织数",
+        "美腿袜 无束缚 光腿神器"
+      ],
+      "scope": "标题原文 + 主图原文",
+      "categories": [
+        "裸感与肤色",
+        "舒适与穿着顾虑",
+        "结构与款式选择",
+        "穿搭与场景",
+        "背书与信任主张"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "黑透肤",
+          "裸感",
+          "不假白"
+        ],
+        "舒适与穿着顾虑": [
+          "不掉档",
+          "防勾丝",
+          "无束缚"
+        ],
+        "结构与款式选择": [
+          "两种颜色"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ],
+        "背书与信任主张": [
+          "私人定制"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "会不会勒、掉档、顶脚或勾丝，穿脱是否方便？",
+        "哪种长度、结构、尺码或颜色适合我？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "为什么相信这家或这项承诺？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C10",
+      "id": "3806152753907106011",
+      "title": "【钢丝美肤袜】26年春秋水光遮瑕美肤袜显瘦自然肤裸感打底袜",
+      "shop": "裤袜菇凉内衣裤袜旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3806152753907106011&product_shop_id=23043180&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/png_m_56643b772f6200522671cc04f36f77da_sx_1648328_www1254-1254",
+      "mainQuotes": [
+        "自然肤感",
+        "细腻贴肤 轻松修饰",
+        "修饰腿型",
+        "舒适百搭",
+        "春秋厚度·通勤百搭"
+      ],
+      "scope": "标题原文 + 主图原文",
+      "categories": [
+        "裸感与肤色",
+        "显瘦与腿型",
+        "穿搭与场景"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "自然肤感",
+          "裸感",
+          "遮瑕",
+          "美肤"
+        ],
+        "显瘦与腿型": [
+          "修饰腿型",
+          "显瘦"
+        ],
+        "穿搭与场景": [
+          "通勤百搭",
+          "春秋"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "穿上后的腿型与腰臀效果如何？",
+        "能配哪些衣服，适合什么季节和场景？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C11",
+      "id": "3777411513615253565",
+      "title": "【刘晓庆推荐】2条装-黑透肤光腿神器女秋冬大码连裤袜加绒黑色丝袜",
+      "shop": "韩鹃女裤旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3777411513615253565&product_shop_id=195340897&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_b7b8c818ef37e8d9c8083a0689d3b068_sx_711564_www1440-1440",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "保暖与材质",
+        "结构与款式选择",
+        "穿搭与场景",
+        "背书与信任主张",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "黑透肤"
+        ],
+        "保暖与材质": [
+          "加绒"
+        ],
+        "结构与款式选择": [
+          "大码"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ],
+        "背书与信任主张": [
+          "刘晓庆推荐"
+        ],
+        "促销与购买保障": [
+          "2条装"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "哪种长度、结构、尺码或颜色适合我？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "为什么相信这家或这项承诺？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "错误",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "错误原因待补充"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C12",
+      "id": "3773030578136416315",
+      "title": "【高腰升级款】完美记忆竖条纹打底加绒压力袜保暖裤袜显瘦微压Q",
+      "shop": "完美记忆官方旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3773030578136416315&product_shop_id=122398531&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_a7eef9ec16453767ff5c970a7b8ddf70_sx_259516_www1080-1080",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "显瘦与腿型",
+        "保暖与材质"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "显瘦",
+          "压力",
+          "微压",
+          "高腰"
+        ],
+        "保暖与材质": [
+          "加绒",
+          "保暖"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C13",
+      "id": "3844713913245630625",
+      "title": "【姐夫家】高密莱卡超自然光腿袜加绒加厚双层纽扣款秋冬打底裤女",
+      "shop": "光腿袜3号",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3844713913245630625&product_shop_id=308610827&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_5b5acc8a76cb4a6834cd8cab4d536bd8_sx_265533_www1728-1728",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "保暖与材质",
+        "结构与款式选择",
+        "穿搭与场景",
+        "背书与信任主张"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "超自然"
+        ],
+        "保暖与材质": [
+          "莱卡",
+          "加绒加厚"
+        ],
+        "结构与款式选择": [
+          "纽扣款",
+          "双层"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ],
+        "背书与信任主张": [
+          "姐夫家"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "哪种长度、结构、尺码或颜色适合我？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "为什么相信这家或这项承诺？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C14",
+      "id": "3845608599804051496",
+      "title": "【买一送一】打底裤女款2026新款秋冬外穿裙裤毛裤袜压力显瘦厚黑1",
+      "shop": "光腿袜3号",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3845608599804051496&product_shop_id=308610827&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_c3fc7e1938614aef035dba45f7a76fe1_sx_259497_www1080-1080",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "显瘦与腿型",
+        "穿搭与场景",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "显瘦",
+          "压力"
+        ],
+        "穿搭与场景": [
+          "外穿",
+          "秋冬"
+        ],
+        "促销与购买保障": [
+          "买一送一"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C15",
+      "id": "3702337254866419796",
+      "title": "诗蓝米卡10A抑菌水光袜裸感春秋光腿神器冬加绒加厚收腹打底裤袜",
+      "shop": "诗蓝米卡服饰旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3702337254866419796&product_shop_id=84972380&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/HRvtwTUJ_m_2d0816f9fed1848c54af450f26f74c76_sx_428875_www800-800",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "显瘦与腿型",
+        "保暖与材质",
+        "穿搭与场景",
+        "背书与信任主张"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "裸感"
+        ],
+        "显瘦与腿型": [
+          "收腹"
+        ],
+        "保暖与材质": [
+          "加绒加厚"
+        ],
+        "穿搭与场景": [
+          "春秋"
+        ],
+        "背书与信任主张": [
+          "10A抑菌"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "为什么相信这家或这项承诺？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C16",
+      "id": "3837834365400908182",
+      "title": "【森林推荐】大码千金澳毛混纺保暖瘦腿袜热压高腰打底裤秋冬锁温~",
+      "shop": "纯儿服饰企业店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3837834365400908182&product_shop_id=159385221&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_711af1dc1ca273191532f54711b26903_sx_740020_www2048-2048",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "显瘦与腿型",
+        "保暖与材质",
+        "结构与款式选择",
+        "穿搭与场景",
+        "背书与信任主张"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "瘦腿",
+          "高腰"
+        ],
+        "保暖与材质": [
+          "澳毛混纺",
+          "保暖",
+          "锁温"
+        ],
+        "结构与款式选择": [
+          "大码"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ],
+        "背书与信任主张": [
+          "森林推荐"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "哪种长度、结构、尺码或颜色适合我？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "为什么相信这家或这项承诺？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C17",
+      "id": "3841900477595910523",
+      "title": "【露思同款】茉寻单层光腿神器柔焦透肤全新升级秋冬裸感打底连裤袜",
+      "shop": "茉寻官方旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3841900477595910523&product_shop_id=266746640&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_882a55283c9e8e6f2c68461677234d72_sx_289947_www1440-1440",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "结构与款式选择",
+        "穿搭与场景",
+        "背书与信任主张"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "裸感",
+          "透肤"
+        ],
+        "结构与款式选择": [
+          "单层"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ],
+        "背书与信任主张": [
+          "露思同款"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "哪种长度、结构、尺码或颜色适合我？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "为什么相信这家或这项承诺？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C18",
+      "id": "3841699017826369905",
+      "title": "【杨幂同款】小野和子羊毛连裤袜26年冬季新款外穿打底高智感袜14LK",
+      "shop": "小野和子官方旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3841699017826369905&product_shop_id=79447224&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_67cacda4a98c8d3f5e2a31e2145cc8b8_sx_624324_www800-800",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "保暖与材质",
+        "穿搭与场景",
+        "背书与信任主张"
+      ],
+      "extractedPhrases": {
+        "保暖与材质": [
+          "羊毛"
+        ],
+        "穿搭与场景": [
+          "外穿"
+        ],
+        "背书与信任主张": [
+          "杨幂同款"
+        ]
+      },
+      "consumerQuestions": [
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "为什么相信这家或这项承诺？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C19",
+      "id": "3840641105255334584",
+      "title": "【露思同款】茉寻羊绒0感裆连裤袜秋冬显瘦保暖打底裤小羊裤-HZ",
+      "shop": "茉寻官方旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3840641105255334584&product_shop_id=266746640&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_b461bdfe59a03d84e27219aeef548896_sx_288722_www1440-1440",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "显瘦与腿型",
+        "保暖与材质",
+        "舒适与穿着顾虑",
+        "穿搭与场景",
+        "背书与信任主张"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "显瘦"
+        ],
+        "保暖与材质": [
+          "羊绒",
+          "保暖"
+        ],
+        "舒适与穿着顾虑": [
+          "0感裆"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ],
+        "背书与信任主张": [
+          "露思同款"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "会不会勒、掉档、顶脚或勾丝，穿脱是否方便？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "为什么相信这家或这项承诺？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C20",
+      "id": "3658933834247993396",
+      "title": "【浩存同款】菇娘家热压连裤袜女士加绒加厚高弹打底裤袜燕麦格雷风",
+      "shop": "菇娘家官方旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3658933834247993396&product_shop_id=148981615&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_0b03f81b6b0a474b0e0645341b2cb20e_sx_301424_www1080-1080",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "保暖与材质",
+        "舒适与穿着顾虑",
+        "穿搭与场景",
+        "背书与信任主张"
+      ],
+      "extractedPhrases": {
+        "保暖与材质": [
+          "加绒加厚"
+        ],
+        "舒适与穿着顾虑": [
+          "高弹"
+        ],
+        "穿搭与场景": [
+          "格雷风",
+          "燕麦格雷"
+        ],
+        "背书与信任主张": [
+          "浩存同款"
+        ]
+      },
+      "consumerQuestions": [
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "会不会勒、掉档、顶脚或勾丝，穿脱是否方便？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "为什么相信这家或这项承诺？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C21",
+      "id": "3837648230301172048",
+      "title": "BONAS/宝娜斯【魔塑裤2.0】秋冬塑型显瘦含羊毛分段压力外穿打底袜",
+      "shop": "宝娜斯BONAS渡梦服饰专卖店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3837648230301172048&product_shop_id=299550049&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/png_m_638b3be9a561703942678ff6ff332937_sx_1572872_www1440-1440",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "显瘦与腿型",
+        "保暖与材质",
+        "穿搭与场景"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "显瘦",
+          "塑型",
+          "压力"
+        ],
+        "保暖与材质": [
+          "羊毛",
+          "含羊毛"
+        ],
+        "穿搭与场景": [
+          "外穿",
+          "秋冬"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "能配哪些衣服，适合什么季节和场景？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C22",
+      "id": "3707567637971206228",
+      "title": "【两条装】南雀光腿袜秋冬双层纽扣款打底裤连裤袜超自然裸感神器女",
+      "shop": "NANQUE南雀",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3707567637971206228&product_shop_id=92744648&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_5f5042b6f3101d038a14fbf640e08fba_sx_1682279_www2729-2729",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "结构与款式选择",
+        "穿搭与场景",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "裸感",
+          "超自然"
+        ],
+        "结构与款式选择": [
+          "纽扣款",
+          "双层"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ],
+        "促销与购买保障": [
+          "两条装"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "哪种长度、结构、尺码或颜色适合我？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C23",
+      "id": "3845433137547051086",
+      "title": "【2件装 更划算】zb秋冬高腰显瘦保暖外穿打底袜收腹弹力0373",
+      "shop": "Kola Kola芊雪女装专卖店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3845433137547051086&product_shop_id=305763033&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/png_m_12af33763345c35d294dad482a2f5b06_sx_3858927_www2048-2048",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "显瘦与腿型",
+        "保暖与材质",
+        "穿搭与场景",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "显瘦",
+          "收腹",
+          "高腰"
+        ],
+        "保暖与材质": [
+          "保暖"
+        ],
+        "穿搭与场景": [
+          "外穿",
+          "秋冬"
+        ],
+        "促销与购买保障": [
+          "2件装 更划算"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C24",
+      "id": "3714964729182159112",
+      "title": "【秋上新】觅橘光腿神器双层可替换9.0秋冬自然裸感加绒打底袜ZB26",
+      "shop": "觅橘官方旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3714964729182159112&product_shop_id=160884251&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_641dd40e303cdedcf901b1c825df4c1e_sx_347811_www800-800",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "保暖与材质",
+        "结构与款式选择",
+        "穿搭与场景"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "裸感"
+        ],
+        "保暖与材质": [
+          "加绒"
+        ],
+        "结构与款式选择": [
+          "双层可替换"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "哪种长度、结构、尺码或颜色适合我？",
+        "能配哪些衣服，适合什么季节和场景？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C25",
+      "id": "3839664921365316202",
+      "title": "【买一送一】混搭平纹哑光打底连裤袜显瘦塑型春秋加绒加厚外穿AS",
+      "shop": "完美记忆官方旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3839664921365316202&product_shop_id=122398531&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_7f9963500605514838108b4992bb8d69_sx_239372_www1080-1080",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "显瘦与腿型",
+        "保暖与材质",
+        "穿搭与场景",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "显瘦",
+          "塑型"
+        ],
+        "保暖与材质": [
+          "加绒加厚"
+        ],
+        "穿搭与场景": [
+          "外穿",
+          "春秋"
+        ],
+        "促销与购买保障": [
+          "买一送一"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C26",
+      "id": "3843820583452278996",
+      "title": "【买一送一】Miu系棉竖条加绒百搭微压显瘦打底袜格雷风黑连裤袜",
+      "shop": "包包家连裤袜",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3843820583452278996&product_shop_id=168644932&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_e83d117370c1a6c91e4981badc1e9cdd_sx_1046841_www1024-1024",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "显瘦与腿型",
+        "保暖与材质",
+        "穿搭与场景",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "显瘦",
+          "微压"
+        ],
+        "保暖与材质": [
+          "加绒",
+          "棉竖条"
+        ],
+        "穿搭与场景": [
+          "格雷风",
+          "Miu系",
+          "百搭"
+        ],
+        "促销与购买保障": [
+          "买一送一"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C27",
+      "id": "3643554823812588396",
+      "title": "半感【到手两条】秋冬新款4.0云朵含羊毛袜无缝一字裆显瘦高弹外穿",
+      "shop": "半感官方旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3643554823812588396&product_shop_id=17729133&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_b22b8ecfac9c89abe66323af78597978_sx_253335_www800-800",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "显瘦与腿型",
+        "保暖与材质",
+        "舒适与穿着顾虑",
+        "穿搭与场景",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "显瘦"
+        ],
+        "保暖与材质": [
+          "羊毛",
+          "含羊毛"
+        ],
+        "舒适与穿着顾虑": [
+          "无缝一字裆",
+          "高弹"
+        ],
+        "穿搭与场景": [
+          "外穿",
+          "秋冬"
+        ],
+        "促销与购买保障": [
+          "到手两条"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "会不会勒、掉档、顶脚或勾丝，穿脱是否方便？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C28",
+      "id": "3843404173437698332",
+      "title": "【两条装】细条纹打底裤女秋冬季外穿高腰显瘦塑型微压竖条纹连裤袜",
+      "shop": "艺鑫甄选",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3843404173437698332&product_shop_id=231382663&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_1c64884f56f1498fb0000e1a05e2753f_sx_163749_www800-800",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "显瘦与腿型",
+        "穿搭与场景",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "显瘦",
+          "塑型",
+          "微压",
+          "高腰"
+        ],
+        "穿搭与场景": [
+          "外穿",
+          "秋冬"
+        ],
+        "促销与购买保障": [
+          "两条装"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C29",
+      "id": "3718131389326033199",
+      "title": "高腰收腹提臀水光黑透肤光腿神器丝袜黑丝薄款加绒加厚秋冬打底袜",
+      "shop": "品彩官方旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3718131389326033199&product_shop_id=20424212&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/vPqLbCSf_m_d70cc4b5ab10f3165985bb68ee688e0b_sx_279146_www600-600",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "显瘦与腿型",
+        "保暖与材质",
+        "穿搭与场景"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "水光黑透肤"
+        ],
+        "显瘦与腿型": [
+          "收腹",
+          "提臀",
+          "高腰"
+        ],
+        "保暖与材质": [
+          "加绒加厚"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "能配哪些衣服，适合什么季节和场景？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C30",
+      "id": "3835706690184020385",
+      "title": "【买一送一】草本初色高腰收腹塑形打底裤袜女秋冬显瘦保暖可外穿",
+      "shop": "草本初色官方旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3835706690184020385&product_shop_id=81762398&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_4e1f82f3a605a686da2cbdbafd3ff9f4_sx_270563_www1600-1600",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "显瘦与腿型",
+        "保暖与材质",
+        "穿搭与场景",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "显瘦",
+          "塑形",
+          "收腹",
+          "高腰"
+        ],
+        "保暖与材质": [
+          "保暖"
+        ],
+        "穿搭与场景": [
+          "外穿",
+          "秋冬"
+        ],
+        "促销与购买保障": [
+          "买一送一"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C31",
+      "id": "3832591509786591436",
+      "title": "【张婧仪同款】浪莎天鹅绒千金袜加厚秋冬款光腿神器收腹提臀保暖",
+      "shop": "银浪莎官方旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3832591509786591436&product_shop_id=108312465&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_cd21bba498c2d98db6b6bfe9137b4251_sx_1539445_www2048-2048",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "显瘦与腿型",
+        "保暖与材质",
+        "穿搭与场景",
+        "背书与信任主张"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "收腹",
+          "提臀"
+        ],
+        "保暖与材质": [
+          "天鹅绒",
+          "保暖"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ],
+        "背书与信任主张": [
+          "张婧仪同款"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "为什么相信这家或这项承诺？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C32",
+      "id": "3844147873046462857",
+      "title": "【到手2条】秋冬加绒微压显瘦打底裤袜百搭塑形连裤袜外穿",
+      "shop": "云小可裤袜",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3844147873046462857&product_shop_id=308492805&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/png_m_189611dd9d256b70f969df8483534ce6_sx_1814030_www1024-1024",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "显瘦与腿型",
+        "保暖与材质",
+        "穿搭与场景",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "显瘦",
+          "塑形",
+          "微压"
+        ],
+        "保暖与材质": [
+          "加绒"
+        ],
+        "穿搭与场景": [
+          "外穿",
+          "百搭",
+          "秋冬"
+        ],
+        "促销与购买保障": [
+          "到手2条"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C33",
+      "id": "3841670256544317553",
+      "title": "WALTZ/华尔兹秋冬显瘦高弹云柔肌理竖纹连裤袜",
+      "shop": "华尔兹内衣臻选店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3841670256544317553&product_shop_id=269865202&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/png_m_8761b9dbd7f533d7f7e62fb5ed10db86_sx_3024317_www1499-1499",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "显瘦与腿型",
+        "舒适与穿着顾虑",
+        "穿搭与场景"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "显瘦"
+        ],
+        "舒适与穿着顾虑": [
+          "高弹"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "会不会勒、掉档、顶脚或勾丝，穿脱是否方便？",
+        "能配哪些衣服，适合什么季节和场景？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C34",
+      "id": "3840572269831258361",
+      "title": "【完美记忆】大码棉竖条纹打底裤女秋冬薄款微压灰色显瘦连裤袜",
+      "shop": "完美记忆湘丝内衣专卖店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3840572269831258361&product_shop_id=152921045&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_e6fb45db0355879ee6f68193eb9a64a1_sx_258840_www1080-1080",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "显瘦与腿型",
+        "保暖与材质",
+        "结构与款式选择",
+        "穿搭与场景"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "显瘦",
+          "微压"
+        ],
+        "保暖与材质": [
+          "棉竖条"
+        ],
+        "结构与款式选择": [
+          "大码"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "哪种长度、结构、尺码或颜色适合我？",
+        "能配哪些衣服，适合什么季节和场景？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C35",
+      "id": "3841702883229827119",
+      "title": "【政府补贴5%】小野和子轻塑千金袜显瘦塑形打底袜微压秋冬款26QR",
+      "shop": "小野和子户外旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3841702883229827119&product_shop_id=239271938&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_cf7e04daecfccfde54174fe92a8684f6_sx_409697_www800-800",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "显瘦与腿型",
+        "穿搭与场景",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "显瘦",
+          "塑形",
+          "轻塑",
+          "微压"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ],
+        "促销与购买保障": [
+          "政府补贴5%"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C36",
+      "id": "3804943585388921067",
+      "title": "【单条装/双条装】一颗松子儿26秋冬双层莱卡秋冬光腿神器连裤袜",
+      "shop": "一颗松子儿5号店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3804943585388921067&product_shop_id=103408494&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_17f44602a08fb2a6e5e128d35e1bd7f7_sx_502058_www2000-2000",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "保暖与材质",
+        "结构与款式选择",
+        "穿搭与场景",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "保暖与材质": [
+          "莱卡"
+        ],
+        "结构与款式选择": [
+          "双层"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ],
+        "促销与购买保障": [
+          "单条装/双条装"
+        ]
+      },
+      "consumerQuestions": [
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "哪种长度、结构、尺码或颜色适合我？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C37",
+      "id": "3773078623905513833",
+      "title": "魔法森林光腿袜双层打底裤新款纽扣款连裤袜美肤自然裸感超自然",
+      "shop": "魔法森林光腿神器",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3773078623905513833&product_shop_id=215271828&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_eac5ae8fcaa5a793d36635c3f2107aa8_sx_1664102_www1440-1440",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "结构与款式选择"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "裸感",
+          "超自然",
+          "美肤"
+        ],
+        "结构与款式选择": [
+          "纽扣款",
+          "双层"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "哪种长度、结构、尺码或颜色适合我？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C38",
+      "id": "3775344775352418304",
+      "title": "【影沐升级款】秋冬蝴蝶水光黑透肤光腿神器单层加绒单层一体连裤袜",
+      "shop": "暖芯可可魅棉内衣裤袜专卖店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3775344775352418304&product_shop_id=91432504&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_c4739f4a8b3dc3f1c93e93486ad9f840_sx_269735_www800-800",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "保暖与材质",
+        "结构与款式选择",
+        "穿搭与场景"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "水光黑透肤"
+        ],
+        "保暖与材质": [
+          "加绒"
+        ],
+        "结构与款式选择": [
+          "单层一体"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "哪种长度、结构、尺码或颜色适合我？",
+        "能配哪些衣服，适合什么季节和场景？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C39",
+      "id": "3840416570732052905",
+      "title": "【1肤1黑组合】茉寻新款黑丝假透肉打底裤袜光腿裸感燕麦格雷DY",
+      "shop": "茉寻运动旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3840416570732052905&product_shop_id=299804540&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/png_m_6ad24b8bf5f7141a9187e0c40c1e185c_sx_931606_www1080-1080",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "穿搭与场景",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "假透肉",
+          "裸感"
+        ],
+        "穿搭与场景": [
+          "燕麦格雷"
+        ],
+        "促销与购买保障": [
+          "1肤1黑组合"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C40",
+      "id": "3843576556446417001",
+      "title": "超自然3个长短无褶皱定制双层光腿裸感神器秋冬季必备D1",
+      "shop": "王大哥定制袜品严选3店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3843576556446417001&product_shop_id=151940100&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_bf365995d271be9821bfa5ebc060c9ed_sx_454095_www1080-1080",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "结构与款式选择",
+        "穿搭与场景"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "裸感",
+          "超自然",
+          "无褶皱"
+        ],
+        "结构与款式选择": [
+          "双层",
+          "3个长短"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "哪种长度、结构、尺码或颜色适合我？",
+        "能配哪些衣服，适合什么季节和场景？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C41",
+      "id": "3840876842991092207",
+      "title": "【买一送一】秋冬加绒细条微压显瘦打底袜百搭塑形miu系打底连裤袜",
+      "shop": "张毛毛打底袜",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3840876842991092207&product_shop_id=304794507&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/png_m_3f7f5b0cc54a713278e4ab60c0c3c7c0_sx_628260_www1024-1024",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "显瘦与腿型",
+        "保暖与材质",
+        "穿搭与场景",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "显瘦",
+          "塑形",
+          "微压"
+        ],
+        "保暖与材质": [
+          "加绒"
+        ],
+        "穿搭与场景": [
+          "miu系",
+          "百搭",
+          "秋冬"
+        ],
+        "促销与购买保障": [
+          "买一送一"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C42",
+      "id": "3836524005314134609",
+      "title": "华尔兹春秋薄绒透肤防勾丝显瘦提臀云肤裸肌光腿神器",
+      "shop": "华尔兹内衣优选店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3836524005314134609&product_shop_id=280862322&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/png_m_71356e8cfcbfff3ad1c8b66a90686799_sx_2919742_www1913-1913",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "显瘦与腿型",
+        "舒适与穿着顾虑",
+        "穿搭与场景"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "透肤"
+        ],
+        "显瘦与腿型": [
+          "显瘦",
+          "提臀"
+        ],
+        "舒适与穿着顾虑": [
+          "防勾丝"
+        ],
+        "穿搭与场景": [
+          "春秋"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "穿上后的腿型与腰臀效果如何？",
+        "会不会勒、掉档、顶脚或勾丝，穿脱是否方便？",
+        "能配哪些衣服，适合什么季节和场景？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C43",
+      "id": "3836523607962550431",
+      "title": "华尔兹春秋无绒透肤防勾丝显瘦提臀云肤裸肌光腿神器",
+      "shop": "华尔兹内衣优选店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3836523607962550431&product_shop_id=280862322&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/png_m_7c7d147f05ccc2abd24478317f89080d_sx_2670434_www1913-1913",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "显瘦与腿型",
+        "舒适与穿着顾虑",
+        "穿搭与场景"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "透肤"
+        ],
+        "显瘦与腿型": [
+          "显瘦",
+          "提臀"
+        ],
+        "舒适与穿着顾虑": [
+          "防勾丝"
+        ],
+        "穿搭与场景": [
+          "春秋"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "穿上后的腿型与腰臀效果如何？",
+        "会不会勒、掉档、顶脚或勾丝，穿脱是否方便？",
+        "能配哪些衣服，适合什么季节和场景？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C44",
+      "id": "3843197424499818521",
+      "title": "焕丽女王【2件装 更划算】zb秋季高腰保暖打底连裤袜显瘦百搭提臀",
+      "shop": "焕丽女王源贤内衣专卖店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3843197424499818521&product_shop_id=299980918&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_fa9ca91fd1e85bf6333c665d738f9593_sx_195662_www800-800",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "显瘦与腿型",
+        "保暖与材质",
+        "穿搭与场景",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "显瘦",
+          "提臀",
+          "高腰"
+        ],
+        "保暖与材质": [
+          "保暖"
+        ],
+        "穿搭与场景": [
+          "百搭"
+        ],
+        "促销与购买保障": [
+          "2件装 更划算"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C45",
+      "id": "3705584359512867171",
+      "title": "【浩存同款】菇娘家4.0Pro光腿神器可替换自然肤裸感保暖打底学院风",
+      "shop": "菇娘家官方旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3705584359512867171&product_shop_id=148981615&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_a1ac65e4d9769b77cc7cee72c3f4e352_sx_197779_www1080-1080",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "保暖与材质",
+        "结构与款式选择",
+        "穿搭与场景",
+        "背书与信任主张"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "裸感",
+          "自然肤"
+        ],
+        "保暖与材质": [
+          "保暖"
+        ],
+        "结构与款式选择": [
+          "可替换"
+        ],
+        "穿搭与场景": [
+          "学院风"
+        ],
+        "背书与信任主张": [
+          "浩存同款"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "哪种长度、结构、尺码或颜色适合我？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "为什么相信这家或这项承诺？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C46",
+      "id": "3814063624138391839",
+      "title": "【两条装2026小雨】80克不加绒（25度至10度）秋冬假透肉打底裤黑透肤",
+      "shop": "美丝高定2号店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3814063624138391839&product_shop_id=50317186&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_3172c4a20e427e72f27d2cbab7ee89ea_sx_1380416_www1320-1320",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "保暖与材质",
+        "穿搭与场景",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "黑透肤",
+          "假透肉"
+        ],
+        "保暖与材质": [
+          "加绒"
+        ],
+        "穿搭与场景": [
+          "秋冬",
+          "25度至10度"
+        ],
+        "促销与购买保障": [
+          "两条装"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "错误",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "错误原因待补充"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C47",
+      "id": "3769699051528912970",
+      "title": "【九分光腿神器】高个子女秋冬裸感粉底肌不顶脚自然漏脚打底连裤袜",
+      "shop": "三朵棉内衣旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3769699051528912970&product_shop_id=79046806&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_e06efef9737f2e24b9055dce30911760_sx_400768_www800-800",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "舒适与穿着顾虑",
+        "结构与款式选择",
+        "穿搭与场景"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "裸感",
+          "粉底肌"
+        ],
+        "舒适与穿着顾虑": [
+          "不顶脚"
+        ],
+        "结构与款式选择": [
+          "九分"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "会不会勒、掉档、顶脚或勾丝，穿脱是否方便？",
+        "哪种长度、结构、尺码或颜色适合我？",
+        "能配哪些衣服，适合什么季节和场景？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C48",
+      "id": "3704226365957079298",
+      "title": "YAOJINGCOCO/妖精可可薄绒水光袜黑透肤透肉裸感打底袜光腿神器",
+      "shop": "妖精可可YAOJINGCOCO内衣旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3704226365957079298&product_shop_id=11916797&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/png_m_a282f1c67f85632e83cdbbd16176ec41_sx_1911076_www1254-1254",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "黑透肤",
+          "裸感"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C49",
+      "id": "3704605173608481072",
+      "title": "南雀光腿袜秋冬双层可拆卸纽扣款打底裤连裤袜超自然肉色裸感神器",
+      "shop": "NANQUE南雀",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3704605173608481072&product_shop_id=92744648&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_5f5042b6f3101d038a14fbf640e08fba_sx_1682279_www2729-2729",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "结构与款式选择",
+        "穿搭与场景"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "裸感",
+          "超自然"
+        ],
+        "结构与款式选择": [
+          "双层可拆卸",
+          "纽扣款"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "哪种长度、结构、尺码或颜色适合我？",
+        "能配哪些衣服，适合什么季节和场景？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C50",
+      "id": "3843901956070441004",
+      "title": "透肤3.0pro升级款超透一体连裤袜女秋冬高腰加绒LZ",
+      "shop": "听趣诺嘉服饰专卖店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3843901956070441004&product_shop_id=258109748&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_8e5ce4627d92b0371a21807e25811287_sx_253599_www800-800",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "显瘦与腿型",
+        "保暖与材质",
+        "穿搭与场景"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "透肤"
+        ],
+        "显瘦与腿型": [
+          "高腰"
+        ],
+        "保暖与材质": [
+          "加绒"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "能配哪些衣服，适合什么季节和场景？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C51",
+      "id": "3837068480558006364",
+      "title": "【买1送1】韩鹃云朵袜灰色打底裤女秋冬外穿微压显瘦塑形连裤袜加绒",
+      "shop": "韩鹃至尚专卖店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3837068480558006364&product_shop_id=292500553&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_a48d29a6530863ba9f66a996f0719fa9_sx_778472_www1440-1440",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "显瘦与腿型",
+        "保暖与材质",
+        "穿搭与场景",
+        "促销与购买保障"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "显瘦",
+          "塑形",
+          "微压"
+        ],
+        "保暖与材质": [
+          "加绒"
+        ],
+        "穿搭与场景": [
+          "外穿",
+          "秋冬"
+        ],
+        "促销与购买保障": [
+          "买1送1"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "怎么买更合适，买错能否退换？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C52",
+      "id": "3835573368107696258",
+      "title": "【黄姐姐私人定制】秋冬黑丝自然光腿神器女黑透肤加绒打底裤连裤袜",
+      "shop": "黄姐姐裤袜精选店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3835573368107696258&product_shop_id=299871316&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_7d5aaceda8e66e9af789ca8001c970c7_sx_188862_www1599-1599",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "保暖与材质",
+        "穿搭与场景",
+        "背书与信任主张"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "黑透肤"
+        ],
+        "保暖与材质": [
+          "加绒"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ],
+        "背书与信任主张": [
+          "私人定制"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "为什么相信这家或这项承诺？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C53",
+      "id": "3837793793210449984",
+      "title": "半夏秘密10A抗菌光腿神器女秋冬裸感超自然打底裤收腹加绒水光袜",
+      "shop": "半夏秘密光腿神器",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3837793793210449984&product_shop_id=301363669&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/png_m_ba16e64b6eb94b05f707b1232662c7b3_sx_728131_www718-718",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "显瘦与腿型",
+        "保暖与材质",
+        "穿搭与场景",
+        "背书与信任主张"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "裸感",
+          "超自然"
+        ],
+        "显瘦与腿型": [
+          "收腹"
+        ],
+        "保暖与材质": [
+          "加绒"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ],
+        "背书与信任主张": [
+          "10A抗菌"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "能配哪些衣服，适合什么季节和场景？",
+        "为什么相信这家或这项承诺？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C54",
+      "id": "3843567711036768464",
+      "title": "超自然3个长短无褶皱定制双层光腿裸感神器秋冬季必备D",
+      "shop": "王大哥定制袜品严选3店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3843567711036768464&product_shop_id=151940100&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_bf365995d271be9821bfa5ebc060c9ed_sx_454095_www1080-1080",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "结构与款式选择",
+        "穿搭与场景"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "裸感",
+          "超自然",
+          "无褶皱"
+        ],
+        "结构与款式选择": [
+          "双层",
+          "3个长短"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "哪种长度、结构、尺码或颜色适合我？",
+        "能配哪些衣服，适合什么季节和场景？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "错误",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "错误原因待补充"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C55",
+      "id": "3846219421613949620",
+      "title": "【加绒】zb秋冬新款外穿秋冬加绒保暖高腰连体袜提臀显瘦2575",
+      "shop": "Kola Kola芊雪女装专卖店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3846219421613949620&product_shop_id=305763033&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_f32a64ef9a09e5b835a19aaa6cbd1868_sx_343473_www1079-1079",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "显瘦与腿型",
+        "保暖与材质",
+        "穿搭与场景"
+      ],
+      "extractedPhrases": {
+        "显瘦与腿型": [
+          "显瘦",
+          "提臀",
+          "高腰"
+        ],
+        "保暖与材质": [
+          "加绒",
+          "保暖"
+        ],
+        "穿搭与场景": [
+          "外穿",
+          "秋冬"
+        ]
+      },
+      "consumerQuestions": [
+        "穿上后的腿型与腰臀效果如何？",
+        "秋冬够不够暖，材质带来什么实际体验？",
+        "能配哪些衣服，适合什么季节和场景？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C56",
+      "id": "3791908752534405549",
+      "title": "【小月野一】【10度-25度】80克连脚假透肉单层一体打底裤无绒款11",
+      "shop": "耀景贸易",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3791908752534405549&product_shop_id=45790617&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_80d9b7a1f0fecbe7f648cf5d26614be3_sx_2511699_www4978-4978",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "结构与款式选择",
+        "穿搭与场景"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "假透肉"
+        ],
+        "结构与款式选择": [
+          "单层一体"
+        ],
+        "穿搭与场景": [
+          "10度-25度"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "哪种长度、结构、尺码或颜色适合我？",
+        "能配哪些衣服，适合什么季节和场景？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C57",
+      "id": "3812775711714967788",
+      "title": "春秋中厚加大美肤袜性感提臀防勾丝防滑隐形自然无痕高腰款连裤袜",
+      "shop": "康雅莎服饰工厂店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3812775711714967788&product_shop_id=2105114&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_846d3223abb1605f8e6a00a34630f136_sx_1306770_www1494-1991",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "显瘦与腿型",
+        "舒适与穿着顾虑",
+        "穿搭与场景"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "美肤"
+        ],
+        "显瘦与腿型": [
+          "提臀",
+          "高腰"
+        ],
+        "舒适与穿着顾虑": [
+          "防勾丝",
+          "防滑"
+        ],
+        "穿搭与场景": [
+          "春秋"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "穿上后的腿型与腰臀效果如何？",
+        "会不会勒、掉档、顶脚或勾丝，穿脱是否方便？",
+        "能配哪些衣服，适合什么季节和场景？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    },
+    {
+      "caseNo": "C58",
+      "id": "3711122228126023793",
+      "title": "YAOJINGCOCO/妖精可可无绒水光袜光腿神器显瘦假透肉秋冬防勾丝",
+      "shop": "妖精可可YAOJINGCOCO内衣旗舰店",
+      "url": "https://compass.jinritemai.com/shop/chance/rank-product/detail?product_id=3711122228126023793&product_shop_id=11916797&date_type=21&date_value=1790524800%2C1791043200&prepages%5B0%5D=%2Fshop%2Fchance%2Frank-product&from_page=%2Fshop%2Fchance%2Frank-product&btm_ppre=a6187.b789375.c0.d0&btm_pre=a6187.b80532.c0.d0&btm_show_id=2d0fa078-7e04-444b-bf1c-69b92305be4f",
+      "sku": [],
+      "heroUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/png_m_7eb134d24c104cfcb1f2d029216d2ede_sx_2072728_www1254-1254",
+      "mainQuotes": [],
+      "scope": "标题原文；主图未逐字提取",
+      "categories": [
+        "裸感与肤色",
+        "显瘦与腿型",
+        "舒适与穿着顾虑",
+        "穿搭与场景"
+      ],
+      "extractedPhrases": {
+        "裸感与肤色": [
+          "假透肉"
+        ],
+        "显瘦与腿型": [
+          "显瘦"
+        ],
+        "舒适与穿着顾虑": [
+          "防勾丝"
+        ],
+        "穿搭与场景": [
+          "秋冬"
+        ]
+      },
+      "consumerQuestions": [
+        "颜色和透肤效果是否自然，会不会假白、厚重或有褶皱？",
+        "穿上后的腿型与腰臀效果如何？",
+        "会不会勒、掉档、顶脚或勾丝，穿脱是否方便？",
+        "能配哪些衣服，适合什么季节和场景？"
+      ],
+      "trustBoundary": "商家原文已观察；材料、功效、认证、同款及补贴真实性均未独立核实。穿搭照片不等于功能测试。",
+      "review": {
+        "verdict": "有效",
+        "validPhrase": "",
+        "invalidPhrase": "",
+        "reason": "",
+        "reviewedBy": "Jeff",
+        "reviewedAt": "2026-10-06T06:30:33Z",
+        "source": "当前对话中用户提交的完整58例审核",
+        "scope": "案例表达参考判断；不代表商品功效、认证、转化或每句单独迁移已获确认",
+        "reasonInterpretation": "用户未提供详细原因"
+      },
+      "collectedAt": "2026-10-05 10:30 Asia/Shanghai（本批采集结束）"
+    }
+  ]
+}

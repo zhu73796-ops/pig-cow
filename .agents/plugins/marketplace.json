@@ -1,0 +1,17 @@
+{
+  "name": "pnw-team",
+  "plugins": [
+    {
+      "name": "pnw-product-planning",
+      "source": {
+        "source": "local",
+        "path": "./plugins/pnw-product-planning"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

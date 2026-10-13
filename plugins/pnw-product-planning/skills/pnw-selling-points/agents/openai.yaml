@@ -1,0 +1,4 @@
+interface:
+  display_name: "粉与白产品卖点"
+  short_description: "生成买点与统一销售色名关联，确认后衔接逐页文案与画面依据，并存入笔记"
+  default_prompt: "使用 $pnw-selling-points，先核对已有主线和SKU，生成买点（销售型卖点）与三平台统一销售色名关联并保存到 Obsidian；确认后按飞轮条件衔接视觉策划与逐页表达。"
